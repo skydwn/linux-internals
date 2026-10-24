@@ -1,4 +1,5 @@
-<div align="center"><i><img src="../../assets/bigcat.gif"><br:
+<div align="center"><br>
+  <i><img src="../../assets/bigcat.gif"><br>
   <h1>Heal (Rootkit integrated with Ruby) USAGE</h1><br>
   <b>by sky / kosu</b><br><br>
   [en_US]<br>
