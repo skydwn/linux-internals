@@ -1,6 +1,6 @@
 <div align="center"><br>
-  <i><img src="../../assets/bigcat.gif"><br>
-  <h1>Heal (Rootkit integrated with Ruby) USAGE</h1><br>
+  <i><img src="../../assets/bigcat.gif" width="80%"><br>
+  <h2>Heal (Rootkit integrated with Ruby) USAGE</h2><br>
   <b>by sky / kosu</b><br><br>
   [en_US]<br>
   Type 'make config' to start signal configuration<br>
@@ -14,7 +14,7 @@
   Digite 'make' para compilar o módulo<br>
   Digite 'insmod heal.ko' para inserir o módulo no kernel<br>
   Digite 'rmmod heal' para remover o módulo do kernel<br><br>
-  Obtenha acesso <b>ROOT</b> com o comando 'kill -<seu-sinal> 0<br><br>
+  Obtenha acesso <b>ROOT</b> com o comando 'kill -<seu-sinal> 0'<br><br>
 <hr>
   
 </i></div>
