@@ -1,5 +1,5 @@
 <div align="center"><br>
-  <i><img src="../../assets/bigcat.gif" width="80%"><br>
+  <i><img src="../../assets/bigcat.gif" width="33%"><br>
   <h2>Heal (Rootkit integrated with Ruby) USAGE</h2><br>
   <b>by sky / kosu</b><br><br>
   [en_US]<br>
